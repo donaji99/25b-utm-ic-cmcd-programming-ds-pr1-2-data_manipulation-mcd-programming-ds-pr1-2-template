@@ -1,0 +1,11 @@
+Age,Gender,Education_Level,Employment_Status,Sleep_Hours,Physical_Activity_Hrs,Social_Support_Score,Anxiety_Score,Depression_Score,Stress_Level,Family_History_Mental_Illness,Chronic_Illnesses,Medication_Use,Therapy,Meditation,Substance_Use,Financial_Stress,Work_Stress,Self_Esteem_Score,Life_Satisfaction_Score,Loneliness_Score
+53,Male,Bachelor's,Employed,4.9,1.5,5,17,4,6,0,0,Desconocido,0,1,Occasional,8,4,6,9,1
+44,Male,Bachelor's,Employed,7.2,1.7,3,4,4,8,0,0,Desconocido,0,0,Desconocido,6,6,7,9,1
+61,Female,PhD,Unemployed,5.7,1.8,4,17,20,9,0,0,Desconocido,0,1,Desconocido,7,8,6,9,1
+31,Female,PhD,Employed,6.8,0.4,8,20,18,5,1,0,Desconocido,0,0,Occasional,1,5,4,9,1
+43,Female,Other,Student,5.5,5.1,9,12,6,6,0,0,Occasional,1,0,Desconocido,6,8,8,9,1
+25,Female,Master's,Employed,6.9,3.4,4,15,5,1,1,0,Desconocido,0,0,Occasional,3,5,6,9,1
+49,Female,High School,Retired,3.6,0.7,6,14,15,6,0,0,Desconocido,0,0,Desconocido,3,2,4,9,1
+44,Other,PhD,Retired,7.4,2.4,4,7,7,4,0,1,Regular,1,0,Occasional,3,4,3,9,1
+41,Female,Master's,Employed,5.4,0.2,1,18,9,8,0,0,Desconocido,0,1,Desconocido,2,6,4,9,1
+29,Male,Other,Unemployed,8.0,0.4,3,7,9,8,1,0,Desconocido,0,0,Desconocido,8,5,5,9,1
